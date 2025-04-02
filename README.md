@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaurav Kanava! 👋  
 
-🔍 **Data Enthusiast | AI for Construction | Basketball Player**  
+🔍 **Data and AI/ML Enthusiast | Basketball Player**  
 
 ---
 
