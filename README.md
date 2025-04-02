@@ -7,10 +7,10 @@
 - 👀 I’m interested in **Data Analytics, AI/ML, and Construction Tech**  
 - 🌱 I’m currently learning **Advanced Machine Learning & AI for real-world applications**  
 - 💡 Passionate about **turning data into insights & building AI-driven solutions**  
-- 💞️ I’m looking to collaborate on **AI, Data Science, and Construction Analytics projects**  
+- 💞️ I’m looking to collaborate on **AI, Data Science, and Analytics projects**  
 - 📊 Skilled in **Python, SQL, Power BI, Tableau, ML/DL frameworks**  
-- 🏀 Former **Basketball Coordinator at IIT Mandi** | Secured **4th place in Inter IIT Sports Meet**  
-- 🏗️ Building an **AI for construction site analysis** to optimize planning & detect errors  
+- 🏀 Former **Basketball Coordinator at IIT Mandi**  
+- 🏗️ Building **AI-powered analytics solutions** to optimize processes & detect errors  
 - 🎓 B.Tech in **Civil Engineering from IIT Mandi**  
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/gauravkanava/) | [Email](gauravkanava217@gmail.com)  
